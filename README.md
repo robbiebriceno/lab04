@@ -7,7 +7,7 @@ Este proyecto es una base para una aplicación Django, estructurada de forma mod
 
 Clonar el repositorio
 
-    git clone https://github.com/Hector-Perez-Vengoa/lab_django_04.git
+    git clone https://github.com/robbiebriceno/lab04.git
     cd lab_django_04
 
 Crear y activar el entorno virtual
