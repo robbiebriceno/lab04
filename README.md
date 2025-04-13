@@ -1,6 +1,6 @@
 # 📚 Library Project
 
-Este proyecto es una base para una aplicación Django, estructurada de forma moderna con una carpeta `src/`. Incluye configuración para manejo de imágenes con Pillow y está lista para ser versionada con Git y desplegada.
+Este proyecto es una base para una aplicación Django, estructurada de forma moderna con una carpeta `src/`. Incluye configuración para manejo de imágenes con Pillow y está lista para ser versionada con Git y desplegada. 
 
 
 ⚙️ Pasos para correr el proyecto
